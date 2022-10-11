@@ -5,7 +5,7 @@ An encoded string (s) is given, the task is to decode it. The encoding pattern i
 
 ## Example 1:
 
-Input: s = 1[b]
+Input: s = 1[b].
 Output: b
 Explaination: 'b' is present only one time.
 
