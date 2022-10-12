@@ -15,11 +15,11 @@ b
 
 ## Example 2:
 
-### ### ### Input:
+### Input:
 s = 3[b2[ca]]
 ### Output:
 bcacabcacabcaca
-### ### Explaination:
+### Explaination:
 2[ca] means 'ca' is repeated 
 twice which is 'caca' which concatenated with 
 'b' becomes 'bcaca'. This string repeated 
