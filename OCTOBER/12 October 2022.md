@@ -11,7 +11,7 @@ W = abcde
 N = 1
 X[] = { 'c' }
 B[] = { -1000 }
-Output:
+### Output:
 de
 ### Explanation:
 Substring "de" has the
