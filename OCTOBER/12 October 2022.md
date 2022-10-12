@@ -28,7 +28,8 @@ X[] = { 'b','s' }
 B[] = { -100, 45  }
 ### Output:
 dbfbsdbf
-Explanation:
+
+### Explanation:
 Substring "dbfbsdbf" has the maximum
 sum of ascii value.
 
