@@ -19,7 +19,8 @@ We select 2 in next two steps, thus the sum is 4+2+2+2=10.
 ```
 Input : arr[ ] = {1, 2, 3} 
 Output :  4
-Explanation: We select 3, so 3 and 2 are deleted leaving us with {1}. Then we select 1, 0 doesn't exist so we delete 1. thus the sum is 3+1=4.
+Explanation: We select 3, so 3 and 2 are deleted leaving us with {1}.
+Then we select 1, 0 doesn't exist so we delete 1. thus the sum is 3+1=4.
 ```
 
 ## Your Task:
