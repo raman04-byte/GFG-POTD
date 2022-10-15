@@ -1,5 +1,5 @@
 # 15 October 2022
-## Shortest Distance in a Binary Maze
+<kbd>Shortest Distance in a Binary Maze</kbd>
 
 ## PROBLEM STATEMENT
 
