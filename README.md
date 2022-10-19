@@ -24,9 +24,6 @@ Geeks For Geeks Problem of The Day Solutions
   <a href="https://github.com/Yaduttam95/GFG-POTD/actions/workflows/StarCheck.yml">
     <img alt="star" src="https://img.shields.io/badge/starvalidation-PASSED-yellow?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/Rjndrkha/Hacktober-Fest-2021">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Yaduttam95/GFG-POTD?color=blue&logo=GITHUB&style=for-the-badge">
-  </a>
   <a href="https://github.com/Yaduttam95/GFG-POTD">
     <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Yaduttam95/GFG-POTD?color=blue&label=CONTRIBUTORS&logo=github&logoColor=white&style=for-the-badge">
   </a>
