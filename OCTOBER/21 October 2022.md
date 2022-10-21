@@ -85,7 +85,7 @@ class Solution
 
         // code here
 
-     visited=new boolean[R][C];
+    boolean visited[][]=new boolean[R][C];
 
      ArrayList<Integer> al=new ArrayList<>();
 
